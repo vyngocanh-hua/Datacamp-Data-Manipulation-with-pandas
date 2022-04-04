@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Data manipulation with pandas
-date: 2022-04-22
+date: 2022-04-03
 tags: Python Pandas DataScience
 pageview: false
 aside:
