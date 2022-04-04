@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Data manipulation with pandas
-date: 2022-04-03
-tags: Python Pandas DataScience
-pageview: true
+layout: article
+title: Data Manipulation with pandas
+key: 20200627
+tags: Python Pandas DataAnalysis
+modify_date: 2020-06-29
+pageview: false
 aside:
   toc: true
 ---
