@@ -1,13 +1,11 @@
-title: Your awesome title
-author: Vy Anh
-email: huavyngocanh@gmail.com
+title: Ann 's blog 
+author: Vy Ngoc Anh Hua
+email: vyngocanh-hua@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  It Is Never To Late To Learn.
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+#twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  vyngocanh-hua # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-slate
