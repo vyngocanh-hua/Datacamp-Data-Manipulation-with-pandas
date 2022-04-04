@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Data manipulation with pandas
 date: 2022-04-03
 tags: Python Pandas DataScience
