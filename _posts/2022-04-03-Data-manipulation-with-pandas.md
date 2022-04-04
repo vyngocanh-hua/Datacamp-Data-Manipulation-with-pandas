@@ -1,9 +1,9 @@
 ---
 layout: article
 title: Data Manipulation with pandas
-key: 20200627
+key: 20220403
 tags: Python Pandas DataAnalysis
-modify_date: 2020-06-29
+modify_date: 2022-04-03
 pageview: false
 aside:
   toc: true
