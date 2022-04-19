@@ -11,7 +11,7 @@ aside:
 
 Base on DataCamp.
 
-<!--more-->
+Certificate: https://www.datacamp.com/statement-of-accomplishment/course/abdc0c520ef5c429dd926405f0d56a04d1abcb76
 
 ## 1. Transforming DataFrames
 
